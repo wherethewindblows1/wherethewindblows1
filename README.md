@@ -1,2 +1,1 @@
-### 안녕하세요 
-ㅇㅁㄴ
+### Hello, I'm Lee Jung-yeop, majoring in AI. And welcome to my homepage.
